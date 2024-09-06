@@ -26,3 +26,54 @@ li a {
 li a:hover {
   background-color: #111;
 }
+
+
+div {
+	display: none;
+	background-color: cornflowerblue;
+	background-size: 450px 100px;
+  	border: 10px solid black;
+  	padding: 50px;
+  	margin: 20px;
+} 
+
+img {
+	width: 300px;
+  	border: 15px solid black;
+  	padding: 50px;
+  	margin: 20px;
+}
+
+
+ p{
+  	font-family: "Times New Roma", serif;
+  		
+}
+
+h1{
+	font-family: "Times New Roman", serif;
+}
+
+h2 {
+	font-family: "Times New Roman", serif;
+}
+
+a:link {
+  color: blue;
+}
+
+a:visited {
+  color: orange;
+}
+
+a:hover {
+  color: hotpink;
+}
+
+a:active {
+  color:gray ;
+}
+
+h3 {
+	font-family: "Times New Roman", serif;
+}
