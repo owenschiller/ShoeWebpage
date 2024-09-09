@@ -24,6 +24,14 @@ li a:hover {
   background-color: #111;
 }
 
+#soccerB{
+	background-image: url("field.jpeg");
+	background-size: cover;
+}
+.heading{
+	color : white;
+}
+
 
 div {
 	display: none;
@@ -73,9 +81,13 @@ a:active {
 
 h3 {
 	font-family: "Times New Roman", serif;
+
 }
 
 #footballfield{
 	background-image: url("Football Field.jpeg");
 	background-size: cover;
 }
+
+
+
