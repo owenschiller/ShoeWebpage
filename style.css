@@ -42,7 +42,9 @@ li a:hover {
   	margin: 20px;
 } 
 
-
+.imgHeight{
+	height: 375px;
+}
 
 
  p{
