@@ -33,9 +33,22 @@ li a:hover {
 }
 
 
+<<<<<<< HEAD
 
 
 
+=======
+#wrestlingDiv {
+	display: none;
+	background-color: gainsboro;
+	background-size: 450px 100px;
+  	border: 1px solid black;
+  	padding: 50px;
+  	margin: 20px;
+} 
+
+
+>>>>>>> a2a39dafdaeafbf99b681493f9f65205e388f4be
 
 
  p{
