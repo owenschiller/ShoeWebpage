@@ -47,6 +47,15 @@ li a:hover {
   	margin: 20px;
 } 
 
+#soccerDiv {
+	display: none;
+	background-color: gainsboro;
+	background-size: 450px 100px;
+  	border: 1px solid black;
+  	padding: 10px;
+  	margin: 20px;
+} 
+
 
 .imgHeight{
 	height: 375px;
