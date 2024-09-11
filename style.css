@@ -67,7 +67,9 @@ li a:hover {
 
 
 
->>>>>>> 37f39a0143e765ecb6f7703a2d5b2a83e785de5b
+.hiddenCaro{
+	display: none;
+}
 
 
  p{
