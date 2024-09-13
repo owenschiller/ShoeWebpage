@@ -118,6 +118,13 @@ h3 {
 	background-size: cover;
 }
 
+#wrestlingmat{
+	background-image: url("Wrestling-Mat.jpeg");
+	background-size: cover;
+}
+
+
+
 .carousel-item {
 margin-left: 25%; 
 margin-right: auto;
