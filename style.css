@@ -28,6 +28,13 @@ li a:hover {
 	background-image: url("field.jpeg");
 	background-size: cover;
 }
+#basketballB{
+	background-image: url("basketBG.webp");
+	background-size: cover;
+}
+.padding{
+	padding: 20px;
+}
 .heading{
 	color : white;
 }
