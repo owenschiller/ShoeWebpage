@@ -13,18 +13,36 @@
   </head> <!-- the head element contains meta information about the page -->
   
   <body id = "basketballB"> <!-- the body element contains all the content to display on the webpage -->
-  <ul>
+<nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+  <div class="container-fluid">
+    
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="collapsibleNavbar">
+      <ul class="navbar-nav">
+	  <li class="nav-item">
+          <a class="nav-link" href="index.html">Home Page</a>
+        </li>  
+        <li class="nav-item">
+          <a class="nav-link" href="football.html">Football</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="basketball.html">Basketball</a>
+        </li>
+        
+           <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">Dropdown</a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="soccer.html">Soccer</a></li>
+            <li><a class="dropdown-item" href="wrestling.html">Wrestling</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
 
-  <li><a class="active" href="index.html">Home Page</a></li>
-  <li><a href="football.html">Football</a></li>
-  <li><a href="basketball.html">Basketball</a></li>
-  <li><a href="soccer.html">Soccer</a></li>
-  <li><a href="wrestling.html">Wrestling</a></li>
-
-
-
-
-</ul>
     <h1 class = "heading" style = "text-align: center;">Best basketball shoes out now!</h1><!-- The heading for the page -->
 	<div class="container-fluid mt-3">
 		
