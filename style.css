@@ -3,10 +3,12 @@
 #soccerB{
 	background-image: url("field.jpeg");
 	background-size: cover;
+	
 }
 #basketballB{
 	background-image: url("basketBG.webp");
 	background-size: cover;
+	
 }
 .padding{
 	padding: 20px;
@@ -44,9 +46,7 @@
 } 
 
 
-.imgHeight{
-	height: 375px;
-}
+
 
 
 
@@ -58,6 +58,7 @@ nav{
 	margin: 0px;
 	padding: 0px;
 }
+
  p{
   	font-family: "Times New Roma", serif;
   		
