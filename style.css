@@ -28,6 +28,10 @@
  background-color: black;
  }
  
+ .margin{
+ margin: 20px;
+ }
+ 
  .carousel-indicators{
  background-color:black;
  background-size: 100px 25px;
@@ -73,17 +77,7 @@ h2 {
 
 
 
-a:visited {
-  color: orange;
-}
 
-a:hover {
-  color: hotpink;
-}
-
-a:active {
-  color:gray ;
-}
 
 h3 {
 	font-family: "Times New Roman", serif;
