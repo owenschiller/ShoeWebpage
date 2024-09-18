@@ -3,11 +3,13 @@
 #soccerB{
 	background-image: url("field.jpeg");
 	background-size: cover;
+	background-attachment: fixed;
 	
 }
 #basketballB{
 	background-image: url("basketBG.webp");
 	background-size: cover;
+	background-attachment: fixed;
 	
 }
 .padding{
@@ -88,6 +90,7 @@ h3 {
 #footballfield{
 	background-image: url("football-field.jpeg");
 	background-size: cover;
+	background-attachment: fixed;
 }
 
 #wrestlingmat{
@@ -98,6 +101,7 @@ h3 {
 #homepage{
 	background-image: url("background.jpg");
  	background-size: cover;
+ 	background-attachment: fixed;
 }
 
 .carousel-item {
